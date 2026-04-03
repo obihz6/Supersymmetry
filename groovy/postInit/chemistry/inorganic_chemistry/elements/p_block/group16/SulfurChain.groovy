@@ -153,7 +153,7 @@ BCR.recipeBuilder()
         .inputs(ore('dustTinyPyrite'))
         .fluidInputs(fluid('gtfo_moist_air') * 5555)
         .outputs(metaitem('dustTinyGreenVitriol'))
-        .duration(120)
+        .duration(40)
         .EUt(VA[ULV])
         .buildAndRegister()
 
