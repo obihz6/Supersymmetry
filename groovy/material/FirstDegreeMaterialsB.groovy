@@ -1126,5 +1126,7 @@ class FirstDegreeMaterialsB {
                 .colorAverage()
                 .iconSet(SHINY)
                 .build()
+
+        Monel400 = supersymmetry.common.materials.SusyMaterials.Monel400
     }
 }
